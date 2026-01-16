@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { CheckCircle, Shield, Wallet, FileCheck, ArrowRight, Sparkles, Lock, Zap, Mail, Github, Twitter, Globe } from 'lucide-react';
 
